@@ -81,3 +81,5 @@ The frontend for the project was designed using Streamlit, which allows users to
 3. Give the repo name and choose branch of code then select `Enable automatic Deploys` 
 4. Click on Deploy button to deploy
     
+![image](https://user-images.githubusercontent.com/40932902/212862492-7742486b-0116-402b-bb53-51edf3ae7d9d.png)
+![image](https://user-images.githubusercontent.com/40932902/212862806-d45523be-c2e3-4e49-b73d-34c3fe4978d5.png)
